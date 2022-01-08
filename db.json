@@ -1,11 +1,434 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "token_id": 36,
+    "name": "Big War Machine",
+    "game": "SUPREMACY",
+    "game_object": null,
+    "description": "A big ass War Machine - links to attached nfts",
+    "external_url": "",
+    "image": "",
+    "attributes": [
+      {
+        "value": 1,
+        "trait_type": "War Machine Win Rank"
+      },
+      {
+        "value": 500,
+        "trait_type": "Max Structure Hit Points",
+        "display_type": "number"
+      },
+      {
+        "value": 100,
+        "trait_type": "Durability",
+        "display_type": "number"
+      },
+      {
+        "value": 170,
+        "trait_type": "Power Grid",
+        "display_type": "number"
+      },
+      {
+        "value": 100,
+        "trait_type": "CPU",
+        "display_type": "number"
+      },
+      {
+        "value": 2,
+        "trait_type": "Weapon Hardpoints",
+        "display_type": "number"
+      },
+      {
+        "value": 2,
+        "trait_type": "Turret Hardpoints",
+        "display_type": "number"
+      },
+      {
+        "value": 2,
+        "trait_type": "Utility Slots",
+        "display_type": "number"
+      },
+      {
+        "value": "url to weapon nft meta",
+        "trait_type": "Weapon One"
+      },
+      {
+        "value": "url to weapon nft meta",
+        "trait_type": "Weapon Two"
+      },
+      {
+        "value": "url to weapon nft meta",
+        "trait_type": "Turret One"
+      },
+      {
+        "value": "url to weapon nft meta",
+        "trait_type": "Turret Two"
+      },
+      {
+        "value": "url to shield module nft meta",
+        "trait_type": "Utility One - Shield Module"
+      },
+      {
+        "value": "url to repair drone nft meta",
+        "trait_type": "Utility Two - Repair Drone"
+      }
+    ],
+    "additional_metadata": null,
+    "keywords": "'ass':7A 'attach':12A 'big':1A,6A 'link':10A 'machin':3A,9A 'nfts':13A 'supremaci':4A 'war':2A,8A",
+    "deleted_at": null,
+    "updated_at": "2022-01-08T04:53:57.01216+00:00",
+    "created_at": "2022-01-08T04:53:57.01216+00:00"
+  },
+  {
+    "token_id": 37,
+    "name": "Medium War Machine",
+    "game": "SUPREMACY",
+    "game_object": null,
+    "description": "Average size War Machine - links to attached nfts",
+    "external_url": "",
+    "image": "",
+    "attributes": [
+      {
+        "value": 3,
+        "trait_type": "War Machine Win Rank"
+      },
+      {
+        "value": 300,
+        "trait_type": "Max Structure Hit Points",
+        "display_type": "number"
+      },
+      {
+        "value": 67,
+        "trait_type": "Durability",
+        "display_type": "number"
+      },
+      {
+        "value": 140,
+        "trait_type": "Power Grid",
+        "display_type": "number"
+      },
+      {
+        "value": 120,
+        "trait_type": "CPU",
+        "display_type": "number"
+      },
+      {
+        "value": 2,
+        "trait_type": "Weapon Hardpoints",
+        "display_type": "number"
+      },
+      {
+        "value": 1,
+        "trait_type": "Turret Hardpoints",
+        "display_type": "number"
+      },
+      {
+        "value": 1,
+        "trait_type": "Utility Slots",
+        "display_type": "number"
+      },
+      {
+        "value": "url to weapon nft meta",
+        "trait_type": "Weapon One"
+      },
+      {
+        "value": "url to weapon nft meta",
+        "trait_type": "Weapon Two"
+      },
+      {
+        "value": "url to weapon nft meta",
+        "trait_type": "Turret One"
+      },
+      {
+        "value": "url to shield module nft meta",
+        "trait_type": "Utility One - Shield Module"
+      }
+    ],
+    "additional_metadata": null,
+    "keywords": "'attach':11A 'averag':5A 'link':9A 'machin':3A,8A 'medium':1A 'nfts':12A 'size':6A 'supremaci':4A 'war':2A,7A",
+    "deleted_at": null,
+    "updated_at": "2022-01-08T04:53:57.017695+00:00",
+    "created_at": "2022-01-08T04:53:57.017695+00:00"
+  },
+  {
+    "token_id": 38,
+    "name": "Small War Machine",
+    "game": "SUPREMACY",
+    "game_object": null,
+    "description": "A iddy biddy tiny War Machine - links to attached nfts",
+    "external_url": "",
+    "image": "",
+    "attributes": [
+      {
+        "value": 2,
+        "trait_type": "War Machine Win Rank"
+      },
+      {
+        "value": 250,
+        "trait_type": "Max Structure Hit Points",
+        "display_type": "number"
+      },
+      {
+        "value": 100,
+        "trait_type": "Durability",
+        "display_type": "number"
+      },
+      {
+        "value": 140,
+        "trait_type": "Power Grid",
+        "display_type": "number"
+      },
+      {
+        "value": 150,
+        "trait_type": "CPU",
+        "display_type": "number"
+      },
+      {
+        "value": 2,
+        "trait_type": "Weapon Hardpoints",
+        "display_type": "number"
+      },
+      {
+        "value": 2,
+        "trait_type": "Utility Slots",
+        "display_type": "number"
+      },
+      {
+        "value": "url to weapon nft meta",
+        "trait_type": "Weapon One"
+      },
+      {
+        "value": "url to weapon nft meta",
+        "trait_type": "Weapon Two"
+      },
+      {
+        "value": "url to shield module nft meta",
+        "trait_type": "Utility One - Shield Module"
+      },
+      {
+        "value": "url to repair drone nft meta",
+        "trait_type": "Utility Two - Repair Drone"
+      }
+    ],
+    "additional_metadata": null,
+    "keywords": "'attach':13A 'biddi':7A 'iddi':6A 'link':11A 'machin':3A,10A 'nfts':14A 'small':1A 'supremaci':4A 'tini':8A 'war':2A,9A",
+    "deleted_at": null,
+    "updated_at": "2022-01-08T04:53:57.020345+00:00",
+    "created_at": "2022-01-08T04:53:57.020345+00:00"
+  },
+  {
+    "token_id": 39,
+    "name": "Pulse Rifle",
+    "game": "SUPREMACY",
+    "game_object": null,
+    "description": "A rifle that shoots pulses",
+    "external_url": "",
+    "image": "",
+    "attributes": [
+      {
+        "value": 1,
+        "trait_type": "Kills"
+      },
+      {
+        "value": 50,
+        "trait_type": "Damage Per shot",
+        "display_type": "number"
+      },
+      {
+        "value": 6,
+        "trait_type": "Shoots per minute",
+        "display_type": "number"
+      },
+      {
+        "value": "Weapon Hardpoint",
+        "trait_type": "Required Slot"
+      },
+      {
+        "value": 100,
+        "trait_type": "Durability",
+        "display_type": "number"
+      },
+      {
+        "value": 30,
+        "trait_type": "Required Power Grid",
+        "display_type": "number"
+      },
+      {
+        "value": 25,
+        "trait_type": "Required CPU",
+        "display_type": "number"
+      }
+    ],
+    "additional_metadata": null,
+    "keywords": "'puls':1A,8A 'rifl':2A,5A 'shoot':7A 'supremaci':3A",
+    "deleted_at": null,
+    "updated_at": "2022-01-08T04:53:57.022841+00:00",
+    "created_at": "2022-01-08T04:53:57.022841+00:00"
+  },
+  {
+    "token_id": 40,
+    "name": "Pulse Rifle",
+    "game": "SUPREMACY",
+    "game_object": null,
+    "description": "A rifle that shoots pulses",
+    "external_url": "",
+    "image": "",
+    "attributes": [
+      {
+        "value": 0,
+        "trait_type": "Kills"
+      },
+      {
+        "value": 50,
+        "trait_type": "Damage Per shot",
+        "display_type": "number"
+      },
+      {
+        "value": 6,
+        "trait_type": "Shoots per minute",
+        "display_type": "number"
+      },
+      {
+        "value": "Weapon Hardpoint",
+        "trait_type": "Required Slot"
+      },
+      {
+        "value": 100,
+        "trait_type": "Durability",
+        "display_type": "number"
+      },
+      {
+        "value": 30,
+        "trait_type": "Required Power Grid",
+        "display_type": "number"
+      },
+      {
+        "value": 25,
+        "trait_type": "Required CPU",
+        "display_type": "number"
+      }
+    ],
+    "additional_metadata": null,
+    "keywords": "'puls':1A,8A 'rifl':2A,5A 'shoot':7A 'supremaci':3A",
+    "deleted_at": null,
+    "updated_at": "2022-01-08T04:53:57.025341+00:00",
+    "created_at": "2022-01-08T04:53:57.025341+00:00"
+  },
+  {
+    "token_id": 41,
+    "name": "Auto Cannon",
+    "game": "SUPREMACY",
+    "game_object": null,
+    "description": "A cannon that shoots projectiles",
+    "external_url": "",
+    "image": "",
+    "attributes": [
+      {
+        "value": 4,
+        "trait_type": "Kills"
+      },
+      {
+        "value": 12,
+        "trait_type": "Damage Per shot",
+        "display_type": "number"
+      },
+      {
+        "value": 40,
+        "trait_type": "Shoots per minute",
+        "display_type": "number"
+      },
+      {
+        "value": 20,
+        "trait_type": "Magazine Size",
+        "display_type": "number"
+      },
+      {
+        "value": 15,
+        "trait_type": "Reload Time",
+        "display_type": "number"
+      },
+      {
+        "value": "Weapon Hardpoint",
+        "trait_type": "Required Slot"
+      },
+      {
+        "value": 100,
+        "trait_type": "Durability",
+        "display_type": "number"
+      },
+      {
+        "value": 30,
+        "trait_type": "Required Power Grid",
+        "display_type": "number"
+      },
+      {
+        "value": 25,
+        "trait_type": "Required CPU",
+        "display_type": "number"
+      }
+    ],
+    "additional_metadata": null,
+    "keywords": "'auto':1A 'cannon':2A,5A 'projectil':8A 'shoot':7A 'supremaci':3A",
+    "deleted_at": null,
+    "updated_at": "2022-01-08T04:53:57.027792+00:00",
+    "created_at": "2022-01-08T04:53:57.027792+00:00"
+  },
+  {
+    "token_id": 42,
+    "name": "Auto Cannon",
+    "game": "SUPREMACY",
+    "game_object": null,
+    "description": "A cannon that shoots projectiles",
+    "external_url": "",
+    "image": "",
+    "attributes": [
+      {
+        "value": 4,
+        "trait_type": "Kills"
+      },
+      {
+        "value": 12,
+        "trait_type": "Damage Per shot",
+        "display_type": "number"
+      },
+      {
+        "value": 40,
+        "trait_type": "Shoots per minute",
+        "display_type": "number"
+      },
+      {
+        "value": 20,
+        "trait_type": "Magazine Size",
+        "display_type": "number"
+      },
+      {
+        "value": 15,
+        "trait_type": "Reload Time",
+        "display_type": "number"
+      },
+      {
+        "value": 100,
+        "trait_type": "Durability",
+        "display_type": "number"
+      },
+      {
+        "value": "Weapon Hardpoint",
+        "trait_type": "Required Slot"
+      },
+      {
+        "value": 30,
+        "trait_type": "Required Power Grid",
+        "display_type": "number"
+      },
+      {
+        "value": 25,
+        "trait_type": "Required CPU",
+        "display_type": "number"
+      }
+    ],
+    "additional_metadata": null,
+    "keywords": "'auto':1A 'cannon':2A,5A 'projectil':8A 'shoot':7A 'supremaci':3A",
+    "deleted_at": null,
+    "updated_at": "2022-01-08T04:53:57.030212+00:00",
+    "created_at": "2022-01-08T04:53:57.030212+00:00"
+  },
+]
