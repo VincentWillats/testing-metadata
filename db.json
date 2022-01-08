@@ -153,7 +153,7 @@
         "trait_type": "War Machine Win Rank"
       },
       {
-        "value": 250,
+        "value": 175,
         "trait_type": "Max Structure Hit Points",
         "display_type": "number"
       },
@@ -168,12 +168,12 @@
         "display_type": "number"
       },
       {
-        "value": 140,
+        "value": 120,
         "trait_type": "Power Grid",
         "display_type": "number"
       },
       {
-        "value": 150,
+        "value": 80,
         "trait_type": "CPU",
         "display_type": "number"
       },
