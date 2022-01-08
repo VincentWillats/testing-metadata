@@ -67,7 +67,7 @@
       },
       {
         "value": "none",
-        "trait_type": "Utility One - Shield Module"
+        "trait_type": "Utility One"
       }
       ],
       "additional_metadata": null
@@ -130,11 +130,11 @@
       },
       {
         "value": "none",
-        "trait_type": "Utility One - Shield Module"
+        "trait_type": "Utility One"
       },
       {
         "value": "none",
-        "trait_type": "Utility Two - Repair Drone"
+        "trait_type": "Utility Two"
       }
       ],
       "additional_metadata": null
@@ -197,11 +197,11 @@
       },
       {
         "value": "none",
-        "trait_type": "Utility One - Shield Module"
+        "trait_type": "Utility One"
       },
       {
         "value": "none",
-        "trait_type": "Utility Two - Repair Drone"
+        "trait_type": "Utility Two"
       }
       ],
       "additional_metadata": null
