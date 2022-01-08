@@ -1,7 +1,7 @@
 {
-  "posts": [
+  "token_id": [
     {
-      "token_id": 36,
+      "id": 36,
       "name": "Big War Machine",
       "game": "SUPREMACY",
       "game_object": null,
@@ -80,7 +80,7 @@
       "created_at": "2022-01-08T04:53:57.01216+00:00"
     },
     {
-      "token_id": 37,
+      "id": 37,
       "name": "Medium War Machine",
       "game": "SUPREMACY",
       "game_object": null,
@@ -151,7 +151,7 @@
       "created_at": "2022-01-08T04:53:57.017695+00:00"
     },
     {
-      "token_id": 38,
+      "id": 38,
       "name": "Small War Machine",
       "game": "SUPREMACY",
       "game_object": null,
@@ -217,7 +217,7 @@
       "created_at": "2022-01-08T04:53:57.020345+00:00"
     },
     {
-      "token_id": 39,
+      "id": 39,
       "name": "Pulse Rifle",
       "game": "SUPREMACY",
       "game_object": null,
